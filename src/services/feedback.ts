@@ -33,6 +33,7 @@ export class FeedbackServices {
       body: [
         `<p>Tipo  do feedback: ${type}</p>`,
         `<p>Comentário: ${comment}</p>`,
+        screenshot ? `<img src="${screenshot}" />` : "",
       ].join("\n"),
     });
 
