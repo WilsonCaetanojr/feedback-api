@@ -28,12 +28,12 @@ The technologies used in the project:
 * Unitary tests.
 * Sending email.
 * Use of ORM.
-* Deploy with railway.
+* Deploy with Railway.
 
 # :construction_worker: How to run
 ```bash
 # Clone Repository
-$ git clone https://github.com/WilsonCaetanojrfeedback-api.git
+$ git clone https://github.com/WilsonCaetanojr/feedback-api.git
 ```
 
 ### 💻 Run Project
