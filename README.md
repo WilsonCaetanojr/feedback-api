@@ -9,7 +9,6 @@ https://feedback-api-production-7e7a.up.railway.app/health
 
 * Technologies
 * Features
-* Diagram
 * How to Run
 
 # :computer: Technologies
