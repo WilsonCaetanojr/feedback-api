@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://imgur.com/yEQEgWD.png" alt="Logo" width="500"/>
+   <img src="https://imgur.com/Wu7dixd.png" alt="Logo" width="500"/>
 </p>
 
 ## Access in production
